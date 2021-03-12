@@ -1,4 +1,4 @@
-for (var i = 0; i < 999; i++) {
+for (var i = 0; i < 9; i++) {
     console.log(i ," ", convertiInLinguaNumeroXXX(i,"it"),convertiInLinguaNumeroXXX(i,"en"));
 }
 
